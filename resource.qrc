@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>img/homepage.png</file>
+        <file>img/initCamera.png</file>
+        <file>img/openCamera.png</file>
+        <file>img/saveImage.png</file>
+        <file>img/searchCamera.png</file>
+        <file>img/settings.png</file>
+        <file>img/startDetect.png</file>
+        <file>img/statistic.png</file>
+        <file>img/stopDetect.png</file>
+        <file>img/stopGrab.png</file>
+        <file>img/closeCamera.png</file>
+    </qresource>
+</RCC>
